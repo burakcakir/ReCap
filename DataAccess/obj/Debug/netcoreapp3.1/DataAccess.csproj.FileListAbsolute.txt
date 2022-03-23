@@ -8,6 +8,5 @@ C:\Users\burak\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\Data
 C:\Users\burak\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
 C:\Users\burak\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
 C:\Users\burak\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\burak\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
 C:\Users\burak\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\burak\source\repos\ReCapProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
