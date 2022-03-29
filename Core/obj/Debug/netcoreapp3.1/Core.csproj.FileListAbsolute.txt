@@ -7,3 +7,4 @@ C:\Users\burak\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.Assem
 C:\Users\burak\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
 C:\Users\burak\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.dll
 C:\Users\burak\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\burak\source\repos\ReCapProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
