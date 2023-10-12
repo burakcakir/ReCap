@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U6zcow7siXbgsNmzJR4xrA+fTEQs/RwxFMWE7+DDXlw8ei2l1iJAf4fNdeg2PRa4RmetlH/e9rT8da2OJOji8g==",
+  "dgSpecHash": "LIugYn2RQI/3AtPsUj70uIndWSLEHbUCfcnC/ER1FWk6gDAE4OvryDILkuYyfP1uAp4m/Ej5ANwtOIgYufrwUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burakcakir\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\burakcakir\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

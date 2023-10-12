@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\burakcakir\\source\\repos\\ReCap\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Core\\Core.csproj": {
+    "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\burakcakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Core\\obj\\",
+        "outputPath": "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\burakcakir\\source\\repos\\ReCap\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\burakcakir\\source\\repos\\ReCap\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\burakcakir\\source\\repos\\ReCap\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\burakcakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\burakcakir\\source\\repos\\ReCap\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -87,7 +87,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -95,11 +95,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Entities\\Entities.csproj"
+              "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Entities\\Entities.csproj"
               }
             }
           }
@@ -111,8 +111,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Entities\\Entities.csproj": {
+    "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\burakcakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -156,7 +156,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -164,11 +164,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\burakcakir\\Source\\Repos\\ReCap\\Core\\Core.csproj"
+              "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\burakcakir\\source\\repos\\ReCap\\Core\\Core.csproj"
               }
             }
           }
@@ -180,8 +180,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
