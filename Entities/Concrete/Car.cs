@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Entities.Concrete
 {
-    public class Car:IEntity
+    public class Car : IEntity
     {
         //Özellik olarak : Id, BrandId, ColorId, ModelYear, DailyPrice, Explanation alanlarını ekleyiniz. (Brand = Marka)
         public int Id { get; set; }
