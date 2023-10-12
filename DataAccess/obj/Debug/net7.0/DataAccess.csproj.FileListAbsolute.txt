@@ -1,0 +1,17 @@
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/bin/Debug/net7.0/Core.dll
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/bin/Debug/net7.0/Entities.dll
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/bin/Debug/net7.0/Entities.pdb
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/bin/Debug/net7.0/Core.pdb
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/burakcakir/Documents/GitHub/ReCap/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
